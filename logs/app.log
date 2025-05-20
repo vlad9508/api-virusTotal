@@ -1,0 +1,200 @@
+2025-05-20 21:01:01 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-20 21:03:12 - INFO - Aplicación FastAPI de VirusTotal iniciada.
+2025-05-20 21:16:32 - DEBUG - Calling on_part_begin with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_header_field with data[54:73]
+2025-05-20 21:16:32 - DEBUG - Calling on_header_value with data[75:147]
+2025-05-20 21:16:32 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_header_field with data[149:161]
+2025-05-20 21:16:32 - DEBUG - Calling on_header_value with data[163:178]
+2025-05-20 21:16:32 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[182:91953]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:63712]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[0:164333]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_end with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_part_begin with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_header_field with data[164389:164408]
+2025-05-20 21:16:32 - DEBUG - Calling on_header_value with data[164410:164434]
+2025-05-20 21:16:32 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_part_data with data[164438:164502]
+2025-05-20 21:16:32 - DEBUG - Calling on_part_end with no data
+2025-05-20 21:16:32 - DEBUG - Calling on_end with no data
+2025-05-20 21:16:32 - INFO - Hash SHA-256 calculado: 59e35f27387eb2a07b1e84e30e91b7513e08c03d9873b3189256a3851cda1caf
+2025-05-20 21:16:32 - ERROR - Error en análisis de archivo: name 'api_key' is not defined
+2025-05-20 21:17:54 - INFO - Aplicación FastAPI de VirusTotal iniciada.
+2025-05-20 21:18:11 - DEBUG - Calling on_part_begin with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_header_field with data[54:73]
+2025-05-20 21:18:11 - DEBUG - Calling on_header_value with data[75:147]
+2025-05-20 21:18:11 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_header_field with data[149:161]
+2025-05-20 21:18:11 - DEBUG - Calling on_header_value with data[163:178]
+2025-05-20 21:18:11 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[182:91953]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:63712]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[0:164333]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_end with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_part_begin with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_header_field with data[164389:164408]
+2025-05-20 21:18:11 - DEBUG - Calling on_header_value with data[164410:164434]
+2025-05-20 21:18:11 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_part_data with data[164438:164502]
+2025-05-20 21:18:11 - DEBUG - Calling on_part_end with no data
+2025-05-20 21:18:11 - DEBUG - Calling on_end with no data
+2025-05-20 21:18:11 - INFO - Hash SHA-256 calculado: 59e35f27387eb2a07b1e84e30e91b7513e08c03d9873b3189256a3851cda1caf
+2025-05-20 21:18:11 - ERROR - Error en análisis de archivo: name 'api_key' is not defined
+2025-05-20 21:19:17 - INFO - Aplicación FastAPI de VirusTotal iniciada.
+2025-05-20 21:19:20 - DEBUG - Calling on_part_begin with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_header_field with data[54:73]
+2025-05-20 21:19:20 - DEBUG - Calling on_header_value with data[75:147]
+2025-05-20 21:19:20 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_header_field with data[149:161]
+2025-05-20 21:19:20 - DEBUG - Calling on_header_value with data[163:178]
+2025-05-20 21:19:20 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[182:88497]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:63712]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[0:167789]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_end with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_part_begin with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_header_field with data[167845:167864]
+2025-05-20 21:19:20 - DEBUG - Calling on_header_value with data[167866:167890]
+2025-05-20 21:19:20 - DEBUG - Calling on_header_end with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_part_data with data[167894:167958]
+2025-05-20 21:19:20 - DEBUG - Calling on_part_end with no data
+2025-05-20 21:19:20 - DEBUG - Calling on_end with no data
+2025-05-20 21:19:20 - INFO - Hash SHA-256 calculado: 59e35f27387eb2a07b1e84e30e91b7513e08c03d9873b3189256a3851cda1caf
+2025-05-20 21:19:20 - ERROR - Error en análisis de archivo: name 'api_key' is not defined
